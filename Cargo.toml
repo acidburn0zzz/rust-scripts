@@ -11,7 +11,7 @@ syntex = "0.31.0"
 [dependencies]
 cookie = "0.2.2"
 encoding = "0.2.32"
-hyper = "0.8.1"
+hyper = "0.14.5"
 inotify = "0.2.3"
 lettre = "0.5.1"
 log = "0.3.6"
