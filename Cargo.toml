@@ -9,7 +9,7 @@ serde_codegen = "0.7.2"
 syntex = "0.31.0"
 
 [dependencies]
-cookie = "0.2.2"
+cookie = "0.7.6"
 encoding = "0.2.32"
 hyper = "0.8.1"
 inotify = "0.2.3"
