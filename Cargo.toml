@@ -26,7 +26,7 @@ url = "0.5.9"
 vkrs = "0.6.2"
 walkdir = "0.1.5"
 xdg-basedir = "1.0.0"
-xml-rs = "0.3.0"
+xml-rs = "0.8.14"
 yadns = "0.2.1"
 
 [dependencies.toml]
